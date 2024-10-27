@@ -14,7 +14,7 @@ from fuzzywuzzy import fuzz
 
 # Установите токены бота и IAM токен для API
 BOT_TOKEN = '7732393943:AAHEuk-i1hj-Ip7zR3hfjM5SrRAxkmZ0wtw'
-IAM_TOKEN = 't1.9euelZqdxpzKio6PjY2eiZXNiYyPyu3rnpWanZ2OjZWKjZiUyorHlpTImpDl8_dFYAhH-e80CD18_N3z9wUPBkf57zQIPXz8zef1656VmoqZlpKQmY7Mx5aWyJuRkJ2X7_zF656VmoqZlpKQmY7Mx5aWyJuRkJ2X.ooySk_GOoRiDGZ342gOEp764Kv1MipxVcL4_z1zbAV7rpw3MssRtu-hYPk4LV8hKu2Ee42iCzqBwTEhdUN49DA'
+IAM_TOKEN = 't1.9euelZrMyIvOj5DImZWVjYnInJfJiu3rnpWanZ2OjZWKjZiUyorHlpTImpDl8_dUGwhH-e9AL2dm_N3z9xRKBUf570AvZ2b8zef1656VmseSiYyVmcvPnciPysqYlorN7_zF656VmseSiYyVmcvPnciPysqYlorN.mlYBl9SdBMYNoqPeAdMOVvQoR1wCp3Xp_mCtahwZ_5NNIw117ofl_m8dlu8oCkP6-mmBxZIYR6Rjt4Ri0citAQ'
 
 # Константы для файлов документации и директории изображений
 DOCUMENTATION_FILE = 'data.docx'
