@@ -133,7 +133,7 @@ prepared_phrases = [
 def start(message: Message) -> None:
     bot.send_message(
         message.chat.id,
-        'Привет! Я бот Яндекс.GPT. Задайте мне вопрос, и я постараюсь помочь!'
+        'Привет! Я бот помошник. Задайте мне вопрос, и я постараюсь помочь!'
     )
     bot.set_state(message.from_user.id, States.base, message.chat.id)
 
